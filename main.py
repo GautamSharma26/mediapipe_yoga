@@ -234,8 +234,6 @@ def main():
     cap.release()
     cv2.destroyAllWindows()
 
-l1 = [1,2,30, [45, 4]]
-l2 = l1.copy()
 
 if __name__ == "__main__":
     main()
